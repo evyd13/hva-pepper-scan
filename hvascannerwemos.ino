@@ -7,10 +7,10 @@
 
 #define MQTT_HOST "mqtt.hva-robots.nl"
 #define MQTT_PORT 1883
-#define MQTT_CLIENT_ID "hva_scan"
-#define MQTT_USERNAME "hva_scan"
-#define MQTT_PASSWORD ""
-#define MQTT_TOPIC "robots/mirai/scan"
+#define MQTT_CLIENT_ID "dekkerm54_pas_pub"
+#define MQTT_USERNAME "dekkerm54"
+#define MQTT_PASSWORD "En6Gd6CEZqxTSAQ4ROyn"
+#define MQTT_TOPIC "dekkerm54/scan"
 
 #define STATE_PUBLISH_TIME 5000
 
